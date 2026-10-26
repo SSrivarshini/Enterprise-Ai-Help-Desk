@@ -1,0 +1,13 @@
+[
+  {"id": "hr_01", "query": "How many days of annual leave do I get?", "expect_any": ["18"], "expect_fallback": false},
+  {"id": "hr_02", "query": "How do I apply for leave?", "expect_any": ["HR portal", "Apply Leave"], "expect_fallback": false},
+  {"id": "hr_03", "query": "Can I carry forward unused leave?", "expect_any": ["5"], "expect_fallback": false},
+  {"id": "onb_01", "query": "What should I bring on my first day?", "expect_any": ["ID", "certificates"], "expect_fallback": false},
+  {"id": "onb_02", "query": "How long is the probation period?", "expect_any": ["3 months", "three months"], "expect_fallback": false},
+  {"id": "pay_01", "query": "When is salary credited?", "expect_any": ["last working day"], "expect_fallback": false},
+  {"id": "pay_02", "query": "Where can I download my payslip?", "expect_any": ["Payroll portal", "Payslips"], "expect_fallback": false},
+  {"id": "it_01", "query": "How do I reset my password?", "expect_any": ["self-service"], "expect_fallback": false},
+  {"id": "it_02", "query": "How do I request new software?", "expect_any": ["Software", "manager"], "expect_fallback": false},
+  {"id": "fb_01", "query": "What is the company's stock option vesting schedule?", "expect_any": [], "expect_fallback": true},
+  {"id": "fb_02", "query": "What is the capital of France?", "expect_any": [], "expect_fallback": true}
+]

@@ -1,0 +1,6 @@
+{
+  "hr":      {"team": "HR Support",      "email": "hr@acme-corp.example",      "hours": "Mon-Fri, 9:30 AM - 6:00 PM"},
+  "payroll": {"team": "Payroll Team",    "email": "payroll@acme-corp.example", "hours": "Mon-Fri, 10:00 AM - 5:00 PM"},
+  "it":      {"team": "IT Help Desk",    "email": "ithelp@acme-corp.example",  "hours": "Mon-Sat, 9:00 AM - 7:00 PM"},
+  "general": {"team": "Employee Support","email": "support@acme-corp.example", "hours": "Mon-Fri, 9:30 AM - 6:00 PM"}
+}
