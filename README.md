@@ -153,6 +153,3 @@ Runs the queries in `tests/queries.json` against the sample documents. Each quer
 
 **Srivarshini S**: [GitHub](https://github.com/SSrivarshini)
 
-## License
-
-MIT
